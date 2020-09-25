@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="oncreate">onCreate réalisé</string>
+    <string name="onstart">onStart réalisé</string>
+    <string name="onstop">onStop réalisé</string>
+    <string name="ondestroy">onDestroy réalisé</string>
+    <string name="onpause">onPause réalisé</string>
+    <string name="onresume">onResume réalisé</string>
+    <string name="onrestart">onRestart réalisé</string>
+    <string name="oncreateview_text">TextFragment: onCreateView réalisé</string>
+    <string name="onstart_text">TextFragment: onStart réalisé</string>
+    <string name="oncreateview_list">ListFragment: onCreateView réalisé</string>
+    <string name="onstart_list">ListFragment: onStart réalisé</string>
+</resources>

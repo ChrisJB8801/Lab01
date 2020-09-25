@@ -1,3 +1,21 @@
 <resources>
-    <string name="app_name">Lab1</string>
+    <string name="app_name" translatable="false">Lab1</string>
+    <string name="aiactivity" translatable="false">AIActivity:</string>
+    <string name="vractivity" translatable="false">VRActivity:</string>
+    <string name="mainactivity" translatable="false">MainActivity:</string>
+    <string name="oncreate">onCreate executed</string>
+    <string name="onstart">onStart executed</string>
+    <string name="onstop">onStop executed</string>
+    <string name="ondestroy">onDestroy executed</string>
+    <string name="onpause">onPause executed</string>
+    <string name="onresume">onResume executed</string>
+    <string name="onrestart">onRestart executed</string>
+    <string name="oncreateview_text">TextFragment: onCreateView executed</string>
+    <string name="oncreateview_list">ListFragment: onCreateView executed</string>
+    <string name="onstart_text">TextFragment: onStart executed</string>
+    <string name="onstart_list">listFragment: onStart executed</string>
+    <string-array name="listview_array">
+        <item>AIActivity</item>
+        <item>VRActivity</item>
+    </string-array>
 </resources>
